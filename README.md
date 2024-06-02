@@ -10,3 +10,5 @@ for a file on local machine to github
 ->git remote -v
 ->git push origin master
 
+## For Branching
+->git checkout -b branch name
