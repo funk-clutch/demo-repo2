@@ -9,3 +9,8 @@ for a file on local machine to github
 ->git remote add origin add ssh key
 ->git remote -v
 ->git push origin master
+
+## For Branching
+->git checkout -b branch name
+->git diff branch name
+->git merge branch name
